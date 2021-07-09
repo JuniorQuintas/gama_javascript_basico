@@ -1,0 +1,1 @@
+# gama_scriptcase_basico
