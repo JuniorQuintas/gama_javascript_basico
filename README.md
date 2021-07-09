@@ -1,1 +1,1 @@
-# gama_scriptcase_basico
+# gama_javascript_basico
