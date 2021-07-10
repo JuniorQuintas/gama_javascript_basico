@@ -25,3 +25,10 @@ function reverseAString(str) {
   console.log(newStr);
 }
 let resultado2 = reverseAString("Hello Gama Academy");
+
+// converter Celsius em Fahrenheit
+function convertToFahrenheit(valor) {
+  return valor * 1.8 + 32;
+}
+let resultado3 = convertToFahrenheit(3);
+console.log(`O valor em Fahrenheit é ${resultado3}°F`);
