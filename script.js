@@ -14,3 +14,14 @@ function fizzBuzz(entrada) {
 }
 let resultado = fizzBuzz(14);
 console.log(resultado);
+
+// Reverse a string
+let newStr = "";
+function reverseAString(str) {
+  for (let i = str.length - 1; i >= 0; i--) {
+    newStr += str[i];
+    //console.log(newStr);
+  }
+  console.log(newStr);
+}
+let resultado2 = reverseAString("Hello Gama Academy");
